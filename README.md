@@ -213,7 +213,7 @@ and `trades_slave`
 DB Schema
 ---------
 
-![DB schema image](https://mysql-trade-replicator.googlecode.com/svn/trunk/_Models/trade_replicator.png)
+![DB schema image](_Models/trade_replicator.png)
 
 
 ToDo
