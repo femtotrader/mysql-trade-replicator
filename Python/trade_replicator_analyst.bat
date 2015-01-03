@@ -1,0 +1,2 @@
+python trade_replicator_manage.py --host 127.0.0.1 --database test --user root --password 123456 --port 3306 --masterid_algo 11:algo1,12:algo1,13:algo1,14:algo1,15:algo2,16:algo2,17:algo2,18:algo2 --action analyst
+pause
